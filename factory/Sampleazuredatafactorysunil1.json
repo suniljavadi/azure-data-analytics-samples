@@ -1,0 +1,9 @@
+{
+	"name": "Sampleazuredatafactorysunil1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f80c8ded-2c9c-4476-ac45-f386ca0ed683",
+		"tenantId": "2117b407-dc6f-468d-a4a2-8c1f13ac26fc"
+	}
+}
