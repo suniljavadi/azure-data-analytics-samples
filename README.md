@@ -15,10 +15,11 @@ A small mixed portfolio repository containing a Power BI report, an HR analytics
 ## How To Explore
 
 - Open the notebook in Jupyter or VS Code with a Python data-analysis environment.
+- The HR notebook expects an authorized, appropriately anonymized dataset at `data/employees.csv`; that data file is intentionally not included. Do not use real employee records without approved access controls and a lawful purpose.
 - Open the `.pbix` file in Power BI Desktop.
 - Review the JSON exports as Azure Data Factory ARM-style configuration artifacts.
 
-There is no shared requirements file, application entry point, automated test suite, or documented deployment command in this repository. The Azure configuration should not be deployed without reviewing environment-specific names, connections, identities, and permissions.
+There is no shared requirements file, application entry point, automated test suite, or documented deployment command in this repository. This is a reference/learning collection, not a production data platform. The Azure configuration should not be deployed without reviewing environment-specific names, connections, identities, and permissions.
 
 ## Skills Demonstrated
 
